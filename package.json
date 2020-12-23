@@ -1,0 +1,12 @@
+{
+  "name": "nvapi-node",
+  "version": "1.0.0",
+  "description": "Module for interfacing with NVIDIA's NVAPI",
+  "main": "index.js",
+  "scripts": {
+    "clean": "node-gyp clean"
+  },
+  "author": "Søren Brokær <mail@srn.io>",
+  "license": "MIT",
+  "gypfile": true
+}
